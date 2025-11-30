@@ -1,24 +1,35 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZxZ3F1aGo3N2x3b3F1aGo3N2x3b3F1aGo3N2x3YmluYXJ5X2ZpbGU=/giphy.gif" width="600" alt="coding gif"/>
-  
+
+  <!-- گیف خفن -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+  <br/><br/>
+
   <h1>سلام، من محمد امین ابراهیمی هستم 👋</h1>
   
   <p>
-    <strong>قبلاً برنامه‌نویس جنگو بودم</strong>، الان عاشق <strong>.NET و C#</strong> شدم 🔥
+    قبلاً برنامه‌نویس <strong>Django</strong> بودم<br/>
+    الان عاشق <strong>.NET 8 + C# + ASP.NET Core</strong> شدم 🔥
   </p>
   
-  <p>در حال حاضر دارم روی پروژه‌های Backend با ASP.NET Core کار می‌کنم</p>
+  <p>Backend Developer | Tehran, Iran</p>
+
+  <br/>
 
   <!-- آمار گیت‌هاب -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-ebrahimi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats"/>  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-ebrahimi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1" alt="stats"/>
   
-  <!-- زبان‌های بیشتر استفاده شده -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebrahimi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Langs"/>  <br/><br/>
+  <br/><br/>
 
-  <!-- مار snake معروف (اختیاری اما خیلی خفن) -->
+  <!-- زبان‌ها -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebrahimi-dev&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="langs"/>
+
+  <br/><br/>
+
+  <!-- مار snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
   </picture>
+
 </div>
