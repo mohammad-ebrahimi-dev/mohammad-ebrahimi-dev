@@ -18,7 +18,7 @@
 <!-- مار snake روی master -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/master/output/github-contribution-grid-snake-dark.svg" />
+        srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/master/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" 
           srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/master/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" 
