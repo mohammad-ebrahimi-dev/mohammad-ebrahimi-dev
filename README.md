@@ -1,7 +1,7 @@
 <div align="center">
 
-  <comment><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/></comment>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t1Z3B2aDZoYmY5b3YwYWR4MWN1dGwyazUwYTZtazJiODNsdXFheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="700"/>
+  <!-- گیف جدید و خفن -->
+  <img src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="700"/>
   <br/><br/>
 
   <h1>سلام، من محمد امین ابراهیمی هستم 👋</h1>
@@ -30,6 +30,14 @@
 
   <br/><br/>
 
-  
+  <!-- مار snake (اگه قبلاً workflow درست کردی این کار می‌کنه) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" 
+         src="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 </div>
