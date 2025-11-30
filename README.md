@@ -10,12 +10,10 @@
   <p>در حال حاضر دارم روی پروژه‌های Backend با ASP.NET Core کار می‌کنم</p>
 
   <!-- آمار گیت‌هاب -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-ebrahimi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mohammad's GitHub Stats"/>  
-  <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammad-ebrahimi-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats"/>  <br/><br/>
   
   <!-- زبان‌های بیشتر استفاده شده -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebrahimi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-ebrahimi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Langs"/>  <br/><br/>
 
   <!-- مار snake معروف (اختیاری اما خیلی خفن) -->
   <picture>
