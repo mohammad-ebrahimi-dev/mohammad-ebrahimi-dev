@@ -29,14 +29,6 @@
 
   <br/><br/>
 
-  <!-- مار یا پک‌من (این یکی ۱۰۰٪ کار می‌کنه) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" 
-         src="https://raw.githubusercontent.com/mohammad-ebrahimi-dev/mohammad-ebrahimi-dev/output/github-contribution-grid-snake.svg" />
-  </picture>
+  
 
 </div>
