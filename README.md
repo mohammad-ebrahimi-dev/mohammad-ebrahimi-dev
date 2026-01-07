@@ -24,15 +24,16 @@
   <br/>
   
 <div>
-    <ul>
-<li>
-  <a href="https://mohammad-ebrahimi-dev.github.io/" target="_blank" rel="noopener noreferrer">
-    رزومه بنده
-  </a>
-</li>
+  
+<ul>
+  <li>
+    <a href="https://mohammad-ebrahimi-dev.github.io/" target="_blank" rel="noopener noreferrer">
+      رزومه بنده
+    </a>
+  </li>
+</ul>
 
-    </ul>
-  </div>
+</div>
   <!-- مهارت‌ها با آیکون خفن -->
   <div>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,postgres,mysql,redis,rabbitmq&perline=8&theme=dark" />
