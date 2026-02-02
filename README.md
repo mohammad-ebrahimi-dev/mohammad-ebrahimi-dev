@@ -8,7 +8,7 @@
 
   <p>
     قبلاً <strong>Django Developer</strong> بودم<br/>
-    الان با <strong>.NET 8 • C# • ASP.NET Core</strong> پروژه‌های Backend می‌سازم 🔥
+    الان با <strong>.NET • C# • ASP.NET Core</strong> پروژه‌های Backend می‌سازم 🔥
   </p>
 
   <p>Tehran, Iran • Backend Enthusiast • SQL Server • Docker • Clean Architecture</p>
